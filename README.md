@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="./.github/dashboard.svg" width="220px" />
+  <p><strong>dtmoney</strong></p>
 </h1>
 
 <p align="center">
   <img alt="dashboard" src=".github/dtmoney.gif" width="100%">
-  width="100%">
+ 
 </p>
 
 <br/>
