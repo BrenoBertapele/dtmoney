@@ -30,6 +30,6 @@ dtmoney is a financial control application and it was developed during Chapter I
 
 You can view the layout of the project via [this link](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1). 
 
----
+----
 
 Made by Breno.
